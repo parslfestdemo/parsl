@@ -9,6 +9,7 @@
     "version": "0.6.1",
     "description": "Simple data dependent workflows in Python",
     "license": "OSI Approved :: Apache Software License",
+    
     "author": [
         {
             "@id":"http://orcid.org/0000-0002-9162-6003",
